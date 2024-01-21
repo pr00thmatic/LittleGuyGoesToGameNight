@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="study room.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="5036.1337"
+     inkscape:cy="1329.4388"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="study room"
+       style="display:inline">
+      <path
+         style="fill:#849dff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m 1338.5729,384.70429 h 18.3256 l 4.189,7.25538 7.3147,-4.04505 -6.4222,-11.24078 h -23.4071 z"
+         id="path95"
+         sodipodi:nodetypes="ccccccc" />
+      <circle
+         style="fill:#849dff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path96"
+         cx="1349.4077"
+         cy="392.59634"
+         r="5.6180735" />
+      <rect
+         style="opacity:1;fill:#ceac9a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect97"
+         width="11.917734"
+         height="30.267262"
+         x="1406.1035"
+         y="363.77463" />
+      <circle
+         style="opacity:1;fill:#fffd84;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path98"
+         cx="1369.4233"
+         cy="415.78632"
+         r="3.7834077" />
+      <rect
+         style="opacity:1;fill:#fffd84;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect98"
+         width="12.975075"
+         height="10.701093"
+         x="329.49432"
+         y="1400.3036"
+         transform="rotate(-60)" />
+    </g>
+  </g>
+</svg>

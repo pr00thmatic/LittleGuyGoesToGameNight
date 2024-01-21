@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="house base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="5300.567"
+     inkscape:cy="1482.8102"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g87"
+       inkscape:transform-center-x="-100.08796"
+       inkscape:transform-center-y="56.918171"
+       transform="matrix(0.51390441,0,0,0.51390441,607.91606,170.35515)"
+       style="stroke-width:1.94589">
+      <path
+         id="path71"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89178;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         d="M 1410.2302,210.58007 V 335.39382 H 1233.295 v 127.87872 h 179.3335 59.6682 v 45.32685 H 1344.418 v 143.01247 l 54.1155,52.43519 h 161.0674 v -82.93297 h 92.0293 V 453.10527 h -62.0665 V 335.39382 210.58007 Z" />
+      <path
+         id="rect72"
+         style="fill:#808080;fill-opacity:0.786245;stroke:none;stroke-width:3.89178;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         d="M 1402.233 199.94723 L 1402.233 223.87565 L 1402.233 319.50288 L 1249.7611 319.50288 L 1221.007 319.50288 L 1221.007 350.14848 L 1221.007 464.02973 L 1249.7611 464.02973 L 1249.7611 350.14848 L 1406.2059 350.14848 L 1406.2059 358.94717 L 1420.9606 358.94717 L 1420.9606 350.14848 L 1427.2031 350.14848 L 1535.1304 350.14848 L 1535.1304 335.39382 L 1427.2031 335.39382 L 1427.2031 319.50288 L 1427.2031 223.87565 L 1576.6603 223.87565 L 1576.6603 335.39382 L 1572.6129 335.39382 L 1572.6129 350.14848 L 1576.6603 350.14848 L 1576.6603 454.93942 L 1572.6028 458.99688 L 1583.0114 469.40548 L 1584.2754 468.19076 L 1601.6305 468.19076 L 1640.2221 468.19076 L 1640.2221 509.50138 L 1669.7324 509.50138 L 1669.7324 440.57191 L 1611.8943 440.57191 L 1601.6305 429.96923 L 1601.6305 199.94723 L 1596.8158 199.94723 L 1427.2031 199.94723 L 1402.233 199.94723 z M 1406.2059 396.42861 L 1406.2059 464.02973 L 1420.9606 464.02973 L 1420.9606 396.42861 L 1406.2059 396.42861 z M 1546.0992 485.50055 L 1544.1132 487.48655 L 1465.5735 487.48655 L 1465.5735 508.10566 L 1325.0951 508.10566 L 1325.0951 656.5341 L 1393.8174 721.67963 L 1394.6419 722.47705 L 1395.4132 721.67963 L 1576.6603 721.67963 L 1576.6603 691.79022 L 1576.6603 639.22631 L 1669.7324 639.22631 L 1669.7324 608.58071 L 1669.7324 566.86082 L 1640.2221 566.86082 L 1640.2221 608.58071 L 1541.8527 608.58071 L 1541.8527 639.22631 L 1541.8527 691.79022 L 1405.9053 691.79022 L 1362.6258 649.94162 L 1362.6258 533.85013 L 1465.5735 533.85013 L 1465.5735 576.62084 L 1480.298 576.62084 L 1480.298 502.08333 L 1549.8177 501.32614 L 1555.9899 495.39029 L 1546.0992 485.50055 z " />
+    </g>
+  </g>
+</svg>
